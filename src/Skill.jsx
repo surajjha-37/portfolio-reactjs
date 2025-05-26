@@ -3,7 +3,7 @@ import "./App.css";
 import Javascript from "./Jslogo.jpg";
 import HTML from "./htmllogo.png";
 import CSS from "./Csslogo.jpg";
-import ReactJs from "./ReactJslogo.jpg";
+import REACTLOGO from "./react-logo.jpg";
 
 function Skill() {
   return (
@@ -35,7 +35,7 @@ function Skill() {
             <div class="html">
               <h3 class="htmlnote">ReactJS</h3>
 
-              <img className="ReactJslogo" src={ReactJs} alt="" />
+              <img className="ReactJslogo" src={REACTLOGO} alt="" />
               <button class="moreview">moreview</button>
             </div>
           </div>
